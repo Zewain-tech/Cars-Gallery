@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cars Gallery</string>
+    <string name="ed_car_model_hint">model</string>
+    <string name="ed_car_color_hint">Color</string>
+    <string name="ed_car_description_hint">Description</string>
+    <string name="ed_car_distance_hint">Distance per letter</string>
+</resources>

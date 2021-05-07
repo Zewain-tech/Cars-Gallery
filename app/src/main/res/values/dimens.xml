@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="acctivity_details_linear_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="custom_card_elevation">10dp</dimen>
+    <dimen name="custom_card_radius">10dp</dimen>
+    <dimen name="custom_car_textsize">14dp</dimen>
+    <dimen name="custom_car_tv_color_width">200dp</dimen>
+    <dimen name="custom_car_iv_height">100dp</dimen>
+    <dimen name="custom_car_tv_padding">10dp</dimen>
+    <dimen name="custom_car_model_textsize">16dp</dimen>
+</resources>
